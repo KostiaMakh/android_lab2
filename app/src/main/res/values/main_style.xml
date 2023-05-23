@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="main_btn">
+        <item name="android:background">@color/btn_color</item>
+    </style>
+    <style name="check_word_btn">
+        <item name="android:background">@color/btn_color</item>
+    </style>
+</resources>
